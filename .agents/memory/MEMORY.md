@@ -1,0 +1,1 @@
+- [AI provider fallback](ai-provider-fallback.md) — use secure secrets when hosted AI provisioning requires an account upgrade
